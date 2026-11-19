@@ -1,0 +1,41 @@
+
+body {
+    background-color: #f3e8ff;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #8e44ad;
+    font-size: 32px;
+}
+
+h3 {
+    color: #9b59b6;
+}
+
+form {
+    background-color: white;
+    width: 350px;
+    margin: 20px auto;
+    padding: 25px;
+    border: 2px solid #d7bde2;
+    border-radius: 20px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #560374;
+    border-radius: 8px;
+    margin-top: 8px;
+    background-color: #b1a5b6;
+    color: rgb(10, 10, 10);
+    cursor: pointer;
+}
+
+strong {
+    color: #8e44ad;
+    font-size: 22px;
+}
