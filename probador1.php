@@ -22,6 +22,11 @@
         <input type="submit" name="generar" value="Generar clave">
     </form>
 
+    <!-- Boton para regresar al menu -->
+    <form action="menu.php" method="POST">
+        <input type="submit" value="Regresar al menu">
+    </form>
+
     <?php
     // Incluir las funciones del ejercicio 1
     require_once("generador_claves.php");
